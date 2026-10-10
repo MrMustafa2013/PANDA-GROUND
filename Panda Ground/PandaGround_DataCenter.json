@@ -1,0 +1,16 @@
+{
+    "links": {
+        "google": "https/www.google.com/",
+        "youtube": "https/www.youtube.com/",
+        "easter_egg": "https://www.youtube.com/watch?v=48rz8udZBmQ"
+    },
+    "user": {
+        "status": "premium"
+    },
+    "bank_account": {
+        "Name": "Mustafa",
+        "T-PIN": 1234,
+        "Password": 123456,
+        "Balance": 57.0
+    }
+}
